@@ -1,0 +1,2 @@
+Prefix plugins/SquaredEuclidean/example/
+Plugin SquaredEuclidean inputfile table.qza outputfile beta_diversity.qza
